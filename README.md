@@ -17,3 +17,5 @@ mousemove: Tracks the user's mouse movement while drawing on the canvas
 click: Handles button clicks for increasing/decreasing brush size and clearing the canvas
 change: Handles changes to the color picker input
 
+## Output
+![Screenshot (6)](https://github.com/ak-Harish1/Drawing-screen-using-javascript/assets/168578592/17f26c79-95e4-4a28-9a02-d5a013afc78c)
